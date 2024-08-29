@@ -1,5 +1,6 @@
  ![GitHub Org's stars](https://img.shields.io/github/stars/SKS2024SE) ![Static Badge](https://img.shields.io/badge/License-MIT-green?style=flat) ![Static Badge](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python) ![Static Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
-
+<!-- README.md -->
+ [![cov](https://Sandhiya2472.github.io/SEProjectSample/badges/coverage.svg)](https://github.com/Sandhiya2472/SEProjectSample/actions)
 
 # Triad Triumph 
 [CSC 510 - Software Engineering 2024](https://txt.github.io/se24fall/index.html) <br>
